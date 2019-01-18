@@ -1,4 +1,5 @@
 package com.sulaoda.domain;
 
 public class User {
+    private Integer id;
 }
